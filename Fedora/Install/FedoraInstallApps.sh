@@ -5,7 +5,7 @@ sudo yum update -y
 sudo yum upgrade -y
 
 # IDE
-sudo apt install geany -y
+sudo yum install geany -y
 
 # Programming
 sudo yum install git -y
