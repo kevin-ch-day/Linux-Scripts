@@ -16,6 +16,9 @@ sudo apt install python -y
 sudo apt install php -y
 sudo apt install nodejs -y
 
+# hex editor
+sudo apt install hexedit -y
+
 # web server
 sudo apt install apache2 -y
 
